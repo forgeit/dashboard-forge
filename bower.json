@@ -1,0 +1,10 @@
+{
+  "name": "Dashboard Forge IT Solutions",
+  "authors": [
+    "Kelvin Alves <kelvinpalves@gmail.com>"
+  ],
+  "description": "Exibição em tempo real do status dos serviços da Forge.",
+  "main": "",
+  "license": "MIT",
+  "homepage": "www.forgeit.com.br"
+}
